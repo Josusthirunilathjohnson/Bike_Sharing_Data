@@ -6,7 +6,7 @@ Bike-sharing rental process is highly correlated with environmental and seasonal
 
 Dataset characteristics
 
-- instant: record index
+'''- instant: record index
 - dteday : date
 - season : season (1:springer, 2:summer, 3:fall, 4:winter)
 - yr : year (0: 2011, 1:2012)
@@ -26,7 +26,7 @@ Dataset characteristics
 - windspeed: Normalized wind speed. The values are divided to 67 (max)
 - casual: count of casual users
 - registered: count of registered users
-- cnt: count of total rental bikes including both casual and registered
+- cnt: count of total rental bikes including both casual and registered'''
 
 
 License
