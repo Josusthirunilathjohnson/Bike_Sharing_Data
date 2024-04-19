@@ -6,7 +6,7 @@ Bike-sharing rental process is highly correlated with environmental and seasonal
 
 Dataset characteristics
 
-| - instant:| record index |
+- instant: record index 
 - dteday : date
 - season : season (1:springer, 2:summer, 3:fall, 4:winter)
 - yr : year (0: 2011, 1:2012)
